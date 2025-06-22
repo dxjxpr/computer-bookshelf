@@ -3,3 +3,4 @@
 AssemblyLanguage/《汇编语言(第3版)[[:space:]]》王爽著.pdf filter=lfs diff=lfs merge=lfs -text
 Algorithm/算法（第4版）.pdf filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
+BigData/大数据：互联网大规模数据挖掘与分布式处理.pdf filter=lfs diff=lfs merge=lfs -text
